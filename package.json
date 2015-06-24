@@ -17,10 +17,7 @@
     "react-native",
     "ios"
   ],
-  "devDependencies": {
-    "react-native": ">=0.3.4 <0.5.0"
-  },
   "peerDependencies": {
-    "react-native": ">=0.3.4 <0.5.0"
+    "react-native": ">=0.4.3"
   }
 }
